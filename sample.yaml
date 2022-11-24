@@ -1,0 +1,19 @@
+version: v1
+id:
+  org: "8d8226d6-807f-4a05-a20c-2e603467011a"
+  app: "1ceb6385-ccba-47f4-8b04-a9c15b9a9c1a"
+
+# Optional parameters.
+scanners:
+  - sast
+  - sca
+languages: 
+  - java
+  - javascript 
+  - go
+  - php
+  - python
+  - ruby
+on_prem:
+  sec_ops_server: https://qa.fortidevsec.forticloud.com
+
