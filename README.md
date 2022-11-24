@@ -1,2 +1,2 @@
-# fdevsec_custom_vulnerabilities
-fdevsec_custom_vulnerabilities
+# fdevsec_vulnerabilities
+fdevsec_vulnerabilities
